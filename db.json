@@ -1,18 +1,18 @@
 {
   "logs": [
     {
+      "id": 1,
       "message": "Changed network card in server 007",
+      "tech": "Sara Wilson",
       "attention": false,
-      "tech": "Sam Smith",
-      "date": "2019-12-11T13:55:37.771Z",
-      "id": 1
+      "date": "2019-12-11T14:26:32.459Z"
     },
     {
-      "message": "Hard drive failed in workstation 002",
-      "attention": true,
+      "id": 2,
+      "message": "Hard drive broken in workstation 002",
       "tech": "Sara Wilson",
-      "date": "2019-12-11T13:56:12.043Z",
-      "id": 2
+      "attention": true,
+      "date": "2019-12-11T14:29:56.584Z"
     },
     {
       "message": "1122 wireless down",
